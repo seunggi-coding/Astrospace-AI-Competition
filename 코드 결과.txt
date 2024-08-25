@@ -1,0 +1,18 @@
+baseline - 0.2-대
+
+code_yolov8l_1024 - 0.5625642280401272
+code_yolov8l2_512 - 0.7849938320876569
+code_yolov8l3_1024 - 
+
+code_yolov8l_640_adamw - 0.8176429075511643
+
+code_yolov8x_1024 - 0.7846988128389272
+code_yolov8x2_1024 - 0.7784483385443176
+code_yolov8x3_512 - 0.7898723220082233
+code_yolov8x4_512 - 
+
+
+- 에포크 5로 돌렸을때 옵티마이저 변경 결과
+code_yolov8l_640_SGD - 0.7239490822972173
+code_yolov8l_640_AdamW - 0.7642501383508578
+code_yolov8l_640_RMSprop - 
